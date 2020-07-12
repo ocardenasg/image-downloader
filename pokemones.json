@@ -1,0 +1,902 @@
+[
+    {
+        "name": "bulbasaur",
+        "type": "poison",
+        "id": "001",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/1.png"
+    },
+    {
+        "name": "ivysaur",
+        "type": "poison",
+        "id": "002",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/2.png"
+    },
+    {
+        "name": "venusaur",
+        "type": "poison",
+        "id": "003",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/3.png"
+    },
+    {
+        "name": "charmander",
+        "type": "fire",
+        "id": "004",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/4.png"
+    },
+    {
+        "name": "charmeleon",
+        "type": "fire",
+        "id": "005",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/5.png"
+    },
+    {
+        "name": "charizard",
+        "type": "flying",
+        "id": "006",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/6.png"
+    },
+    {
+        "name": "squirtle",
+        "type": "water",
+        "id": "007",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/7.png"
+    },
+    {
+        "name": "wartortle",
+        "type": "water",
+        "id": "008",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/8.png"
+    },
+    {
+        "name": "blastoise",
+        "type": "water",
+        "id": "009",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/9.png"
+    },
+    {
+        "name": "caterpie",
+        "type": "bug",
+        "id": "010",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/10.png"
+    },
+    {
+        "name": "metapod",
+        "type": "bug",
+        "id": "011",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/11.png"
+    },
+    {
+        "name": "butterfree",
+        "type": "flying",
+        "id": "012",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/12.png"
+    },
+    {
+        "name": "weedle",
+        "type": "poison",
+        "id": "013",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/13.png"
+    },
+    {
+        "name": "kakuna",
+        "type": "poison",
+        "id": "014",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/14.png"
+    },
+    {
+        "name": "beedrill",
+        "type": "poison",
+        "id": "015",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/15.png"
+    },
+    {
+        "name": "pidgey",
+        "type": "flying",
+        "id": "016",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/16.png"
+    },
+    {
+        "name": "pidgeotto",
+        "type": "flying",
+        "id": "017",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/17.png"
+    },
+    {
+        "name": "pidgeot",
+        "type": "flying",
+        "id": "018",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/18.png"
+    },
+    {
+        "name": "rattata",
+        "type": "normal",
+        "id": "019",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/19.png"
+    },
+    {
+        "name": "raticate",
+        "type": "normal",
+        "id": "020",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/20.png"
+    },
+    {
+        "name": "spearow",
+        "type": "flying",
+        "id": "021",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/21.png"
+    },
+    {
+        "name": "fearow",
+        "type": "flying",
+        "id": "022",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/22.png"
+    },
+    {
+        "name": "ekans",
+        "type": "poison",
+        "id": "023",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/23.png"
+    },
+    {
+        "name": "arbok",
+        "type": "poison",
+        "id": "024",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/24.png"
+    },
+    {
+        "name": "pikachu",
+        "type": "electric",
+        "id": "025",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/25.png"
+    },
+    {
+        "name": "raichu",
+        "type": "electric",
+        "id": "026",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/26.png"
+    },
+    {
+        "name": "sandshrew",
+        "type": "ground",
+        "id": "027",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/27.png"
+    },
+    {
+        "name": "sandslash",
+        "type": "ground",
+        "id": "028",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/28.png"
+    },
+    {
+        "name": "nidoran-f",
+        "type": "poison",
+        "id": "029",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/29.png"
+    },
+    {
+        "name": "nidorina",
+        "type": "poison",
+        "id": "030",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/30.png"
+    },
+    {
+        "name": "nidoqueen",
+        "type": "ground",
+        "id": "031",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/31.png"
+    },
+    {
+        "name": "nidoran-m",
+        "type": "poison",
+        "id": "032",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/32.png"
+    },
+    {
+        "name": "nidorino",
+        "type": "poison",
+        "id": "033",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/33.png"
+    },
+    {
+        "name": "nidoking",
+        "type": "ground",
+        "id": "034",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/34.png"
+    },
+    {
+        "name": "clefairy",
+        "type": "fairy",
+        "id": "035",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/35.png"
+    },
+    {
+        "name": "clefable",
+        "type": "fairy",
+        "id": "036",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/36.png"
+    },
+    {
+        "name": "vulpix",
+        "type": "fire",
+        "id": "037",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/37.png"
+    },
+    {
+        "name": "ninetales",
+        "type": "fire",
+        "id": "038",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/38.png"
+    },
+    {
+        "name": "jigglypuff",
+        "type": "fairy",
+        "id": "039",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/39.png"
+    },
+    {
+        "name": "wigglytuff",
+        "type": "fairy",
+        "id": "040",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/40.png"
+    },
+    {
+        "name": "zubat",
+        "type": "flying",
+        "id": "041",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/41.png"
+    },
+    {
+        "name": "golbat",
+        "type": "flying",
+        "id": "042",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/42.png"
+    },
+    {
+        "name": "oddish",
+        "type": "poison",
+        "id": "043",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/43.png"
+    },
+    {
+        "name": "gloom",
+        "type": "poison",
+        "id": "044",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/44.png"
+    },
+    {
+        "name": "vileplume",
+        "type": "poison",
+        "id": "045",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/45.png"
+    },
+    {
+        "name": "paras",
+        "type": "grass",
+        "id": "046",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/46.png"
+    },
+    {
+        "name": "parasect",
+        "type": "grass",
+        "id": "047",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/47.png"
+    },
+    {
+        "name": "venonat",
+        "type": "poison",
+        "id": "048",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/48.png"
+    },
+    {
+        "name": "venomoth",
+        "type": "poison",
+        "id": "049",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/49.png"
+    },
+    {
+        "name": "diglett",
+        "type": "ground",
+        "id": "050",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/50.png"
+    },
+    {
+        "name": "dugtrio",
+        "type": "ground",
+        "id": "051",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/51.png"
+    },
+    {
+        "name": "meowth",
+        "type": "normal",
+        "id": "052",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/52.png"
+    },
+    {
+        "name": "persian",
+        "type": "normal",
+        "id": "053",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/53.png"
+    },
+    {
+        "name": "psyduck",
+        "type": "water",
+        "id": "054",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/54.png"
+    },
+    {
+        "name": "golduck",
+        "type": "water",
+        "id": "055",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/55.png"
+    },
+    {
+        "name": "mankey",
+        "type": "fighting",
+        "id": "056",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/56.png"
+    },
+    {
+        "name": "primeape",
+        "type": "fighting",
+        "id": "057",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/57.png"
+    },
+    {
+        "name": "growlithe",
+        "type": "fire",
+        "id": "058",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/58.png"
+    },
+    {
+        "name": "arcanine",
+        "type": "fire",
+        "id": "059",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/59.png"
+    },
+    {
+        "name": "poliwag",
+        "type": "water",
+        "id": "060",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/60.png"
+    },
+    {
+        "name": "poliwhirl",
+        "type": "water",
+        "id": "061",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/61.png"
+    },
+    {
+        "name": "poliwrath",
+        "type": "fighting",
+        "id": "062",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/62.png"
+    },
+    {
+        "name": "abra",
+        "type": "psychic",
+        "id": "063",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/63.png"
+    },
+    {
+        "name": "kadabra",
+        "type": "psychic",
+        "id": "064",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/64.png"
+    },
+    {
+        "name": "alakazam",
+        "type": "psychic",
+        "id": "065",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/65.png"
+    },
+    {
+        "name": "machop",
+        "type": "fighting",
+        "id": "066",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/66.png"
+    },
+    {
+        "name": "machoke",
+        "type": "fighting",
+        "id": "067",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/67.png"
+    },
+    {
+        "name": "machamp",
+        "type": "fighting",
+        "id": "068",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/68.png"
+    },
+    {
+        "name": "bellsprout",
+        "type": "poison",
+        "id": "069",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/69.png"
+    },
+    {
+        "name": "weepinbell",
+        "type": "poison",
+        "id": "070",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/70.png"
+    },
+    {
+        "name": "victreebel",
+        "type": "poison",
+        "id": "071",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/71.png"
+    },
+    {
+        "name": "tentacool",
+        "type": "poison",
+        "id": "072",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/72.png"
+    },
+    {
+        "name": "tentacruel",
+        "type": "poison",
+        "id": "073",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/73.png"
+    },
+    {
+        "name": "geodude",
+        "type": "ground",
+        "id": "074",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/74.png"
+    },
+    {
+        "name": "graveler",
+        "type": "ground",
+        "id": "075",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/75.png"
+    },
+    {
+        "name": "golem",
+        "type": "ground",
+        "id": "076",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/76.png"
+    },
+    {
+        "name": "ponyta",
+        "type": "fire",
+        "id": "077",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/77.png"
+    },
+    {
+        "name": "rapidash",
+        "type": "fire",
+        "id": "078",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/78.png"
+    },
+    {
+        "name": "slowpoke",
+        "type": "psychic",
+        "id": "079",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/79.png"
+    },
+    {
+        "name": "slowbro",
+        "type": "psychic",
+        "id": "080",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/80.png"
+    },
+    {
+        "name": "magnemite",
+        "type": "steel",
+        "id": "081",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/81.png"
+    },
+    {
+        "name": "magneton",
+        "type": "steel",
+        "id": "082",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/82.png"
+    },
+    {
+        "name": "farfetchd",
+        "type": "flying",
+        "id": "083",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/83.png"
+    },
+    {
+        "name": "doduo",
+        "type": "flying",
+        "id": "084",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/84.png"
+    },
+    {
+        "name": "dodrio",
+        "type": "flying",
+        "id": "085",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/85.png"
+    },
+    {
+        "name": "seel",
+        "type": "water",
+        "id": "086",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/86.png"
+    },
+    {
+        "name": "dewgong",
+        "type": "ice",
+        "id": "087",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/87.png"
+    },
+    {
+        "name": "grimer",
+        "type": "poison",
+        "id": "088",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/88.png"
+    },
+    {
+        "name": "muk",
+        "type": "poison",
+        "id": "089",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/89.png"
+    },
+    {
+        "name": "shellder",
+        "type": "water",
+        "id": "090",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/90.png"
+    },
+    {
+        "name": "cloyster",
+        "type": "ice",
+        "id": "091",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/91.png"
+    },
+    {
+        "name": "gastly",
+        "type": "poison",
+        "id": "092",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/92.png"
+    },
+    {
+        "name": "haunter",
+        "type": "poison",
+        "id": "093",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/93.png"
+    },
+    {
+        "name": "gengar",
+        "type": "poison",
+        "id": "094",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/94.png"
+    },
+    {
+        "name": "onix",
+        "type": "ground",
+        "id": "095",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/95.png"
+    },
+    {
+        "name": "drowzee",
+        "type": "psychic",
+        "id": "096",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/96.png"
+    },
+    {
+        "name": "hypno",
+        "type": "psychic",
+        "id": "097",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/97.png"
+    },
+    {
+        "name": "krabby",
+        "type": "water",
+        "id": "098",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/98.png"
+    },
+    {
+        "name": "kingler",
+        "type": "water",
+        "id": "099",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/99.png"
+    },
+    {
+        "name": "voltorb",
+        "type": "electric",
+        "id": "100",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/100.png"
+    },
+    {
+        "name": "electrode",
+        "type": "electric",
+        "id": "101",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/101.png"
+    },
+    {
+        "name": "exeggcute",
+        "type": "psychic",
+        "id": "102",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/102.png"
+    },
+    {
+        "name": "exeggutor",
+        "type": "psychic",
+        "id": "103",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/103.png"
+    },
+    {
+        "name": "cubone",
+        "type": "ground",
+        "id": "104",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/104.png"
+    },
+    {
+        "name": "marowak",
+        "type": "ground",
+        "id": "105",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/105.png"
+    },
+    {
+        "name": "hitmonlee",
+        "type": "fighting",
+        "id": "106",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/106.png"
+    },
+    {
+        "name": "hitmonchan",
+        "type": "fighting",
+        "id": "107",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/107.png"
+    },
+    {
+        "name": "lickitung",
+        "type": "normal",
+        "id": "108",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/108.png"
+    },
+    {
+        "name": "koffing",
+        "type": "poison",
+        "id": "109",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/109.png"
+    },
+    {
+        "name": "weezing",
+        "type": "poison",
+        "id": "110",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/110.png"
+    },
+    {
+        "name": "rhyhorn",
+        "type": "rock",
+        "id": "111",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/111.png"
+    },
+    {
+        "name": "rhydon",
+        "type": "rock",
+        "id": "112",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/112.png"
+    },
+    {
+        "name": "chansey",
+        "type": "normal",
+        "id": "113",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/113.png"
+    },
+    {
+        "name": "tangela",
+        "type": "grass",
+        "id": "114",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/114.png"
+    },
+    {
+        "name": "kangaskhan",
+        "type": "normal",
+        "id": "115",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/115.png"
+    },
+    {
+        "name": "horsea",
+        "type": "water",
+        "id": "116",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/116.png"
+    },
+    {
+        "name": "seadra",
+        "type": "water",
+        "id": "117",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/117.png"
+    },
+    {
+        "name": "goldeen",
+        "type": "water",
+        "id": "118",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/118.png"
+    },
+    {
+        "name": "seaking",
+        "type": "water",
+        "id": "119",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/119.png"
+    },
+    {
+        "name": "staryu",
+        "type": "water",
+        "id": "120",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/120.png"
+    },
+    {
+        "name": "starmie",
+        "type": "psychic",
+        "id": "121",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/121.png"
+    },
+    {
+        "name": "mr-mime",
+        "type": "fairy",
+        "id": "122",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/122.png"
+    },
+    {
+        "name": "scyther",
+        "type": "flying",
+        "id": "123",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/123.png"
+    },
+    {
+        "name": "jynx",
+        "type": "psychic",
+        "id": "124",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/124.png"
+    },
+    {
+        "name": "electabuzz",
+        "type": "electric",
+        "id": "125",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/125.png"
+    },
+    {
+        "name": "magmar",
+        "type": "fire",
+        "id": "126",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/126.png"
+    },
+    {
+        "name": "pinsir",
+        "type": "bug",
+        "id": "127",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/127.png"
+    },
+    {
+        "name": "tauros",
+        "type": "normal",
+        "id": "128",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/128.png"
+    },
+    {
+        "name": "magikarp",
+        "type": "water",
+        "id": "129",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/129.png"
+    },
+    {
+        "name": "gyarados",
+        "type": "flying",
+        "id": "130",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/130.png"
+    },
+    {
+        "name": "lapras",
+        "type": "ice",
+        "id": "131",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/131.png"
+    },
+    {
+        "name": "ditto",
+        "type": "normal",
+        "id": "132",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/132.png"
+    },
+    {
+        "name": "eevee",
+        "type": "normal",
+        "id": "133",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/133.png"
+    },
+    {
+        "name": "vaporeon",
+        "type": "water",
+        "id": "134",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/134.png"
+    },
+    {
+        "name": "jolteon",
+        "type": "electric",
+        "id": "135",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/135.png"
+    },
+    {
+        "name": "flareon",
+        "type": "fire",
+        "id": "136",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/136.png"
+    },
+    {
+        "name": "porygon",
+        "type": "normal",
+        "id": "137",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/137.png"
+    },
+    {
+        "name": "omanyte",
+        "type": "water",
+        "id": "138",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/138.png"
+    },
+    {
+        "name": "omastar",
+        "type": "water",
+        "id": "139",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/139.png"
+    },
+    {
+        "name": "kabuto",
+        "type": "water",
+        "id": "140",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/140.png"
+    },
+    {
+        "name": "kabutops",
+        "type": "water",
+        "id": "141",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/141.png"
+    },
+    {
+        "name": "aerodactyl",
+        "type": "flying",
+        "id": "142",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/142.png"
+    },
+    {
+        "name": "snorlax",
+        "type": "normal",
+        "id": "143",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/143.png"
+    },
+    {
+        "name": "articuno",
+        "type": "flying",
+        "id": "144",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/144.png"
+    },
+    {
+        "name": "zapdos",
+        "type": "flying",
+        "id": "145",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/145.png"
+    },
+    {
+        "name": "moltres",
+        "type": "flying",
+        "id": "146",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/146.png"
+    },
+    {
+        "name": "dratini",
+        "type": "dragon",
+        "id": "147",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/147.png"
+    },
+    {
+        "name": "dragonair",
+        "type": "dragon",
+        "id": "148",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/148.png"
+    },
+    {
+        "name": "dragonite",
+        "type": "flying",
+        "id": "149",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/149.png"
+    },
+    {
+        "name": "mewtwo",
+        "type": "psychic",
+        "id": "150",
+        "img": "https://raw.githubusercontent.com/lunavazquez/pokemon-images/master/150.png"
+    }
+]
